@@ -175,7 +175,8 @@ https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screensho
 https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Target%20Groups.png
 
 ### Terraform Apply Success
-https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/output.png
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Terraform%20Apply%20Success.png
+
 ---
 
 ## Learning Outcomes
