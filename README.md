@@ -160,17 +160,22 @@ Result:
 ## Screenshots
 
 ### Website Output
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/output.png
 
 ### Application Load Balancer
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Load%20balancer.png
 
 ### Auto Scaling Group
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Load%20balancer.png
 
 ### Launch Template
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Launch%20Template.png
 
 ### Target Group Health Check
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/Target%20Groups.png
 
 ### Terraform Apply Success
-
+https://github.com/sumukhsm/Aws-Autoscaling-terraform-webapp/blob/main/Screenshots/output.png
 ---
 
 ## Learning Outcomes
